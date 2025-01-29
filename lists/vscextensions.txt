@@ -1,0 +1,4 @@
+Visual Studio Code extensions
+- Better comments
+- Bookmarks
+- REST Client
